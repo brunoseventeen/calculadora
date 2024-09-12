@@ -1,0 +1,75 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    /* text-decoration: none; */
+    font-family: "Handjet", sans-serif;
+    /* font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+        "ELGR" 1,
+        "ELSH" 2; */
+        
+}
+body {
+    color: green;
+    background-color: #73C3F5;
+}
+
+.tela {
+    border: 5px solid blue;
+    height: 80px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 21px;
+}
+
+header {
+    background-color: #4643F4;
+    color: #ffffff;
+    text-align: center;
+    font-size: 50px;
+}
+
+.container {
+    padding-top: 30px;
+    background-color: rgba(0, 255, 255, 0);
+    height: 500px;
+    border-radius: 15px;
+}
+
+.colpx {
+    padding: 15px;
+}
+
+main {
+    padding-top: 30px;
+    background-color: #73C3F5;
+}
+
+input {
+    background-color: #ffffff;
+    height: 35px;
+    text-align: center;
+    border-radius: 15px;
+    margin: 5px;
+}
+
+button {
+    padding: 5px 35px 5px 35px;
+    border-radius: 15px;
+}
+button:hover {
+    /* padding: 7px 37px 7px 37px; */
+    border-radius: 15px;
+    background-color: cornflowerblue;
+}
+
+.accordion-item {
+    text-align: center;
+    border: 2px solid #4643f4;
+}
+h1 {
+    text-align: center;
+}
